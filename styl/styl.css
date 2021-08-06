@@ -1,0 +1,301 @@
+*
+{
+    padding: 0;
+    margin:0;
+ top:0;
+    box-sizing: border-box;
+  
+}
+
+body{
+
+    background: rgb(113,34,232);
+    background: linear-gradient(90deg, rgba(113,34,232,1) 0%,rgba(113,34,232,1)  93,75%);
+  background-image: 
+  linear-gradient(transparent 9px, rgba(220,220,200,.8) 5px, transparent 10px),
+  linear-gradient(90deg, transparent 11px, rgba(220,220,200,.8) 9px, transparent 12px);
+  background-size: 100% 30px, 30px 100%;
+
+}
+.napisy{
+    
+    font-family: 'Oswald', sans-serif;
+    font-size: 80px;
+    line-height: 118,56px;
+    color: #fafafa;
+}
+.napis2{
+    color: #fff;
+    font-size: 64px;
+    font-family: 'Oswald', sans-serif;
+    clear: both;
+}
+.napis3{
+    font-family: 'Inter', sans-serif;
+    font-size: 40px;
+    color: #fff;
+}
+
+.srd{
+    background-color:#fafafa ; 
+    background-size:cover ;
+    opacity:16%;
+    position: absolute;
+  width: 908px;
+  height: 140vh;
+  left: 634px;
+border:  solid 1px #fafafa 25%;
+}
+.LGR{
+    float: left;
+}
+nav{
+
+margin-top: 62px;
+float: right;
+
+}
+    nav >ul{
+        list-style-type: none;
+    display: flex;
+    justify-content: flex-end;
+    }
+    .item{
+background: linear-gradient(91.62deg, #C8FF46 31.18%, #97FF46 100%);
+ -webkit-background-clip: text;
+ -webkit-text-fill-color: transparent;
+font-size: 64px;
+font-family: 'Oswald', sans-serif;
+font-weight: 600;
+font-size: 64px;
+margin-top: -40px;
+margin-right: 20px;
+margin-left: 20px;
+    }
+.item2{
+    color: #fff;
+    font-size: 32px;
+    font-family: 'Oswald', sans-serif;
+    font-weight: 300;
+line-height: 47px;
+margin-right: 20px;
+
+
+}
+/* artykol */
+
+.nag{
+    margin-top: 28%;
+}
+.k{
+    position: absolute;
+    margin-left: 11%;
+    margin-top: 11%;
+}
+.obr{
+    position: absolute;
+    margin-left: 5%;
+    margin-top: 5%;
+}
+.naglowek{
+   margin-left: 10%;
+    font-family: 'Oswald', sans-serif;
+    font-size: 40px;
+    color: #041C26;
+    line-height: 48px;
+    }
+    .zobacz{
+        background: linear-gradient(91.62deg, #C8FF46 31.18%, #97FF46 100%);
+    border-radius: 0px 0px 8px 8px;
+    position: absolute;
+    width: 476px;
+    height: 80px;
+    margin-top: 110%;
+       filter: drop-shadow (0px,36px,48px,0px #0d0423 50%);
+       
+       
+    } 
+      
+    .zobacz2{
+        background: linear-gradient(91.62deg, #C8FF46 31.18%, #97FF46 100%);
+    border-radius: 0px 0px 8px 8px;
+    position: absolute;
+    width: 474px;
+    height: 80px;
+    margin-top: 100%;
+       filter: drop-shadow (0px,36px,48px,0px #0d0423 50%);
+       
+    } 
+    .zobacz, .zobacz2 {
+        font-size: 24px;
+       line-height: 29px;
+       font-family: 'Inter', sans-serif;
+       
+       
+    } 
+    .napiszobacz{
+        margin-top: 22px;
+        margin-left: 48px;
+        margin-bottom: 26px;
+        font-weight: bold;
+        
+    }
+    .zobacz > ul{
+        list-style: none;
+    }
+    .zobacz2 > ul{
+        list-style: none;
+    }
+    .strzalkazob{
+        position: absolute;
+margin-left: 86%;
+margin-top: 20px;
+
+
+bottom: -15.47%;
+    }
+    /*artykuly*/
+   
+.art1{
+    margin-left:20% ;
+    background-color: #fff;
+   width: 475px;
+   height: 600px;
+   top: 48px;
+   float: left;
+   position: relative;
+   border-radius: 8px;
+   font-family: 'Oswald', sans-serif;
+
+}
+.art2{
+margin-left: 5vh;
+    background-color: #fff;
+   width: 473px;
+   height: 550px;
+   top: 72px;
+ float: left;
+   position: relative;
+   font-family: 'Oswald', sans-serif;
+   border-radius: 8px;
+}
+.art3{
+    margin-top: 10vh;
+    margin-left:30% ;
+    overflow: hidden;
+    background-color: #fff;
+   width: 475px;
+   height: 604px;
+ 
+   clear: both;
+   float: left;
+   position: relative;
+   border-radius: 8px;
+   
+   font-family: 'Oswald', sans-serif;
+
+}
+.art4{
+    margin-top: 10vh;
+    margin-left: 5vh;
+    overflow: hidden;
+    background-color: #fff;
+   width: 475px;
+   height: 550px;
+   float: left;
+   position: relative;
+   border-radius: 8px;
+   font-family: 'Oswald', sans-serif;
+
+}
+.artykol1{
+    margin-top: 10%;
+ 
+}
+.artykol1 >p {
+    font-family: 'Inter', sans-serif;
+    font-size: 20px;
+    line-height: 32px;
+    margin-left: 10%;
+    margin-right: 10%;
+    color: #041C26;
+}
+
+
+
+a {
+    text-decoration: none;
+   color:#0d0423;
+ }
+ a:hover {
+    text-decoration: underline;
+ }
+ 
+/*  koniec art */
+.footer{
+position: absolute;
+    
+    clear: both;
+    background-color: #f4f4f4;
+    display: block;
+    margin-top: 30%
+}
+.LDR{
+    position: fixed;
+   left: 0;
+   top: 90%;
+    margin-top: -2.5em;
+}
+.PDR{
+    position: fixed;
+    right: 0;
+    top: 95%;
+    margin-top: -2.5em;
+}
+/*animacja*/
+/*.strzalkazob .active{
+    
+    
+}
+*/
+.strzalkazob{
+    transition-duration: 0.5s;
+    
+}
+.strzalkazob:hover{
+    -webkit-transform: rotate(40deg);
+    transform: rotate(40deg);
+    transition:  ease-out 0.2s;
+
+}
+.lewo{
+    transition-duration: 0.5s;
+}
+.lewo:hover{
+   
+    transform:translatex(-30px);
+}
+.prawo{
+    transition-duration: 0.5s;
+    margin-right:3em ;
+}
+.prawo:hover{
+   
+    transform:translatex(30px);
+}
+.mobileFOOTER{
+    
+        background: transparent;
+        border:none;
+        outline: none;
+        cursor: pointer;
+        display: none;
+    
+}
+.art1,.art2,.art3,.art4{
+    -webkit-transition: all 0.5s ease;
+    -moz-transition: all 0.5s ease;
+      -o-transition: all 0.5s ease;
+     -ms-transition: all 0.5s ease;
+         transition: all 0.5s ease;
+}

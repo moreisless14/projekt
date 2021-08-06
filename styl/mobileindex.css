@@ -1,0 +1,733 @@
+@media all  and (min-width:1746px) and (max-width:1876px)  
+ {
+    .srd{
+     
+      left: 28%;
+    }
+   .art1{
+       margin-left: 15%;
+   }
+    .art3{
+        margin-left: 26%;
+    }
+    .napis2{
+        font-size: 50px;
+    }
+                 }  
+                 @media all  and (min-width:167px) and (max-width: 1745px)  
+                 {
+                    .srd{
+                    
+                      left: 25%;
+                      }
+                      .art1{
+                        margin-left: 11%;
+                    }
+                     .art3{
+                         margin-left: 23%;
+                     }
+                     .napis2{
+                         font-size: 50px;
+                     }
+                    .napis2{
+                        
+                        font-size: 50px;
+                    }
+                }
+                    @media all  and (min-width:1579px) and (max-width: 1671px)   
+                 {
+                    .srd{
+                        left: 20%;
+                        
+                      }
+
+                      .art1{
+                        margin-left: 8%;
+                        width: 450px;
+                        height: 500px;
+                    }
+                    .zobacz{
+                        font-size: 20px;
+                        width: 450px;
+                    }
+                     .art3{
+                         margin-left: 20%;
+                         width: 450px;
+                        height: 550px;
+                        
+                     }
+                     .naglowek{
+                         font-size: 30px;
+                     }
+                     .artykol1 > p{
+                        font-size: 19px;
+                     }
+                     .napis2{
+                         font-size: 50px;
+                     }
+                    .napis2{
+                        
+                        font-size: 50px;
+                    }
+                    
+
+                
+            }
+            @media all  and (min-width:1500px) and (max-width: 1578px)   
+                 {
+                    .srd{
+                        left: 20%;
+                        
+                      }
+
+                      .art1{
+                        margin-left: 7%;
+                        width: 430px;
+                        height: 500px;
+                    }
+                    .zobacz{
+                        font-size: 20px;
+                        width: 430px;
+                    }
+                    .zobacz2{
+                        width: 420px;
+                    }
+                    .art2,.art4{
+                        width: 420px;
+                        height: 500px;
+                    }
+                     .art3{
+                         margin-top: 15vh;
+                         margin-left: 20%;
+                         width: 430px;
+                        height: 550px;
+                        
+                     }
+                     .naglowek{
+                         font-size: 30px;
+                     }
+                     .artykol1 > p{
+                        font-size: 19px;
+                     }
+                     .napis2{
+                         font-size: 50px;
+                     }
+                    .napis2{
+                        
+                        font-size: 40px;
+                    }
+                    
+
+                
+            }
+            @media all  and (min-width:1453px) and (max-width: 1499px)   
+                 {
+                    .srd{
+                        left: 20%;
+                        
+                      }
+
+                      .art1{
+                        margin-left: 5%;
+                        width: 430px;
+                        height: 500px;
+                    }
+                    .zobacz{
+                        font-size: 20px;
+                        width: 430px;
+                    }
+                    .zobacz2{
+                        width: 420px;
+                    }
+                    .art2,.art4{
+                        width: 420px;
+                        height: 500px;
+                    }
+                    .art2{
+                        margin-top:-1vh;
+                    }
+                     .art3{
+                         margin-top: 15vh;
+                         margin-left: 19%;
+                         width: 430px;
+                        height: 550px;
+                        
+                     }
+                     .naglowek{
+                         font-size: 30px;
+                     }
+                     .artykol1 > p{
+                        font-size: 19px;
+                     }
+                     .napis2{
+                         font-size: 50px;
+                     }
+                    .napis2{
+                        
+                        font-size: 40px;
+                    }
+                    
+
+                
+            }
+            @media all  and (min-width:1435px) and (max-width: 1452px)   
+            {
+               .srd{
+                   left: 18%;
+                   
+                 }
+
+                 .art1{
+                   margin-left: 5%;
+                   width: 420px;
+                   height: 500px;
+               }
+               .zobacz{
+                   font-size: 20px;
+                   width: 420px;
+               }
+               .zobacz2{
+                   width: 410px;
+               }
+               .art2,.art4{
+                   width: 410px;
+                   height: 490px;
+               }
+               .art2{
+                   margin-top:-3vh;
+               }
+                .art3{
+                    margin-top: 15vh;
+                    margin-left: 19%;
+                    width: 420px;
+                   height: 540px;
+                   
+                }
+                .naglowek{
+                    font-size: 30px;
+                }
+                .artykol1 > p{
+                   font-size: 19px;
+                }
+                .napis2{
+                    font-size: 50px;
+                }
+               .napis2{
+                   
+                   font-size: 40px;
+               }
+               
+
+           
+       }
+       @media all  and (min-width:1400px) and (max-width: 1434px)   
+       {
+          .srd{
+              left: 18%;
+              
+            }
+
+            .art1{
+              margin-left: 5%;
+              width: 420px;
+              height: 500px;
+          }
+          .zobacz{
+              font-size: 20px;
+              width: 420px;
+          }
+          .zobacz2{
+              width: 410px;
+          }
+          .art2,.art4{
+              width: 410px;
+              height: 490px;
+          }
+          .art2{
+              margin-top:-9vh;
+          }
+           .art3{
+               margin-top: 14vh;
+               margin-left: 19%;
+               width: 420px;
+              height: 540px;
+              
+           }
+           .naglowek{
+               font-size: 30px;
+           }
+           .artykol1 > p{
+              font-size: 19px;
+           }
+           .napis2{
+               font-size: 50px;
+           }
+          .napis2{
+              
+              font-size: 40px;
+          }
+        }
+          @media all  and (min-width:1374px) and (max-width: 1399px)   
+       {
+          .srd{
+              left: 15%;
+              
+            }
+            .art1{
+              margin-left: 1%;
+              width: 420px;
+              height: 500px;
+          }
+          .zobacz{
+              font-size: 20px;
+              width: 420px;
+          }
+          .zobacz2{
+              width: 410px;
+          }
+          .art2,.art4{
+              width: 410px;
+              
+              height: 490px;
+          }
+          .art2{
+              margin-top:-1vh;
+          }
+           .art3{
+               margin-top: 14vh;
+               margin-left: 15%;
+               width: 420px;
+              height: 540px;
+              
+           }
+           .naglowek{
+               font-size: 30px;
+           }
+           .artykol1 > p{
+              font-size: 19px;
+           }
+           .napis2{
+               font-size: 50px;
+           }
+          .napis2{
+              
+              font-size: 30px;
+          }
+
+      
+  }
+  @media all  and (min-width:1321px) and (max-width: 1373px)   
+  {
+     .srd{
+         left: 15%;
+         
+       }
+       .art1{
+         margin-left: 1%;
+         width: 420px;
+         height: 500px;
+     }
+     .zobacz{
+         font-size: 20px;
+         width: 420px;
+     }
+     .zobacz2{
+         width: 410px;
+     }
+     .art2,.art4{
+         width: 410px;
+         height: 490px;
+     }
+     .art2{
+         margin-top:-10vh;
+     }
+      .art3{
+          margin-top: 14vh;
+          margin-left: 15%;
+          width: 420px;
+         height: 540px;
+         
+      }
+      .naglowek{
+          font-size: 30px;
+      }
+      .artykol1 > p{
+         font-size: 19px;
+      }
+      .napis2{
+          font-size: 50px;
+      }
+     .napis2{
+         
+         font-size: 30px;
+     }
+
+ 
+}
+@media all  and (min-width:1211px) and (max-width: 1320px)   
+  {
+     .srd{
+         left: 25%;
+         width: 700px;
+  height: 280vh;
+       }
+       .art1{
+           margin-left: 19%;
+       }
+       .art2,.art3,.art4{
+        margin-left: 35%;
+    }
+   
+     
+      .napis2{
+          font-size: 50px;
+      }
+     .napis2{
+         
+         font-size: 30px;
+     }
+
+ 
+}
+@media all  and (min-width:1128px) and (max-width: 1210px)   
+  {
+     .srd{
+         left: 22%;
+         width: 700px;
+  height: 280vh;
+       }
+       .art1{
+           margin-left: 15%;
+       }
+       .art2,.art3,.art4{
+        margin-left: 32%;
+    }
+      .napis2{
+          font-size: 50px;
+      }
+     .napis2{
+         
+         font-size: 30px;
+     }
+
+ 
+}
+@media all  and (min-width:913px) and (max-width: 1127px)   
+  {
+     .srd{
+         left: 22%;
+         width: 700px;
+  height: 250vh;
+       }
+       .art1{
+           margin-left: 11%;
+       }
+       .art2,.art3,.art4{
+        margin-left: 32%;
+    }
+      .napis2{
+          font-size: 50px;
+      }
+     .napis2{
+         
+         font-size: 30px;
+     }
+
+
+}
+@media all  and (min-width:800px) and (max-width: 912px)   
+  {
+     .srd{
+         left: 25%;
+         width: 400px;
+  height: 250vh;
+       }
+       
+       .art2,.art3,.art4{
+        margin-left: 25%;
+    }
+    .art2{
+        margin-top: 5vh;
+    }
+     .napis2{
+         font-size: 30px;
+     }
+     
+    .zobacz{
+        font-size: 20px;
+        width: 430px;
+    }
+    .zobacz2{
+        width: 420px;
+    }
+    .art1{
+        margin-left: 2%;
+        width: 430px;
+        height: 500px;
+    }
+    .art2,.art4{
+        width: 420px;
+        height: 490px;
+    }
+    .art4{
+        margin-top: 3vh;
+    }
+     .art3{
+         width: 420px;
+        height: 540px;
+        
+     }
+
+}
+@media all  and (min-width:555px) and (max-width: 799px)   
+  {
+    .srd{
+        left: 11%;
+        width: 400px;
+ height: 250vh;
+      }
+      
+      .art2,.art3,.art4{
+       margin-left: 10%;
+   }
+   .art2{
+       margin-top: 5vh;
+   }
+    .napis2{
+        font-size: 30px;
+    }
+    
+   .zobacz{
+       font-size: 20px;
+       width: 430px;
+   }
+   .zobacz2{
+       width: 420px;
+   }
+   .art1{
+       margin-left: 10%;
+       width: 430px;
+       height: 500px;
+   }
+   .art2,.art4{
+       width: 420px;
+       height: 490px;
+   }
+   .art4{
+       margin-top: 3vh;
+   }
+    .art3{
+        width: 420px;
+       height: 540px;
+       
+    }
+    .LGR,.PGR,.LDR,.PDR{
+        background: transparent;
+        border:none;
+        outline: none;
+        cursor: pointer;
+        display: none;
+     }
+     .mobileFOOTER{
+        left: 2.5vh;
+        top: 90%;
+        width: 100vh;
+        margin: -2.5vh;
+        border-right: none;
+         position:fixed;
+         display: block;
+         background: rgb(15, 15, 15);
+      }
+      .item1{
+        font-family: 'Oswald', sans-serif;
+        font-size:24px;
+        line-height: 118,56px;
+        color: #fafafa;
+        float: left;
+      }
+      .item2{
+    float: right;
+    position:absolute;
+    margin-left: 50vh;
+      }
+      .item2 >ul{
+        list-style-type: none;
+    display: flex;
+    justify-content: flex-end;
+    }
+      .lewo{
+        transition-duration: 0.5s;
+    }
+    .lewo:hover{
+       
+        transform:translatex(-30px);
+    }
+    .prawo{
+        transition-duration: 0.5s;
+        margin-right:3em ;
+    }
+    .prawo:hover{
+       
+        transform:translatex(30px);
+    }
+    .item3 >p{
+         color: #fff;
+        font-size: 30px;
+        font-family: 'Oswald', sans-serif;
+        clear: both;
+    float: left;
+    
+    }
+    .item4{
+        font-family: 'Inter', sans-serif;
+        font-size: 30px;
+        color: #fff;
+        float: right;
+        position:absolute;
+        margin-left: 50vh;
+        margin-top: 7vh;
+    }
+    .LICZBA1{
+        background: linear-gradient(91.62deg, #C8FF46 31.18%, #97FF46 100%);
+     -webkit-background-clip: text;
+     -webkit-text-fill-color: transparent;
+     font-family: 'Oswald', sans-serif;
+    font-weight: 600;
+    }
+    hr{
+        background: greenyellow;
+    clear: both;
+    height: 3px;
+    width: 410%;
+    }
+}
+   
+/*
+@media all  and (min-width:370px) and (max-width: 554px)   
+  {
+    .srd{
+        left: 25%;
+        width: 400px;
+ height: 250vh;
+      }
+      
+      .art2,.art3,.art4{
+       margin-left: 10%;
+   }
+   .art2{
+       margin-top: 5vh;
+   }
+    .napis2{
+        font-size: 30px;
+    }
+    
+   .zobacz{
+       font-size: 20px;
+       width: 300px;
+     
+   }
+   .zobacz2{
+       width: 420px;
+   }
+   .naglowek{
+    font-size: 20px;
+}
+.artykol1 >p{
+    font-size: 15px;
+}
+   .art1{
+    
+       width: 300px;
+       height: 500px;
+   }
+   .art2,.art4{
+       width: 420px;
+       height: 490px;
+   }
+   .art4{
+       margin-top: 3vh;
+   }
+    .art3{
+        width: 420px;
+       height: 540px;
+       
+    }
+    .LGR,.PGR,.LDR,.PDR{
+        background: transparent;
+        border:none;
+        outline: none;
+        cursor: pointer;
+        display: none;
+     }
+     .mobileFOOTER{
+       width: 100%;
+       margin-top: 141%;
+          display: flex;
+        position:fixed;
+        background: rgb(15, 15, 15);
+      }
+      .item1{
+        font-family: 'Oswald', sans-serif;
+        font-size:24px;
+        line-height: 118,56px;
+        color: #fafafa;
+        float: left;
+      }
+      .item2{
+    float: right;
+    position:absolute;
+    margin-left: 30vh;
+      }
+      .item2 >ul{
+        list-style-type: none;
+    display: flex;
+    justify-content: flex-end;
+    }
+      .lewo{
+        transition-duration: 0.5s;
+    }
+    .lewo:hover{
+       
+        transform:translatex(-10px);
+    }
+    .prawo{
+        transition-duration: 0.5s;
+        
+    }
+    .prawo:hover{
+       
+        transform:translatex(7px);
+    }
+    .item3 >p{
+         color: #fff;
+        font-size: 30px;
+        font-family: 'Oswald', sans-serif;
+        clear: both;
+    float: left;
+    
+    }
+    .item4{
+        font-family: 'Inter', sans-serif;
+        font-size: 30px;
+        color: #fff;
+        float: right;
+        position:absolute;
+        margin-left: 33vh;
+        margin-top: 9vh;
+    }
+    .LICZBA1{
+        background: linear-gradient(91.62deg, #C8FF46 31.18%, #97FF46 100%);
+     -webkit-background-clip: text;
+     -webkit-text-fill-color: transparent;
+     font-family: 'Oswald', sans-serif;
+    font-weight: 600;
+    }
+    hr{
+        background: greenyellow;
+    clear: both;
+    height: 3px;
+    width: 330%;
+    }
+
+}
+*/

@@ -1,0 +1,547 @@
+@media all  and (min-width:1807px) and (max-width:1905px)  
+ {
+
+.post{
+    margin-left: 50vh;
+}
+ }
+ @media all  and (min-width:1707px) and (max-width:1806px)  
+ {
+
+.post{
+    margin-left: 40vh;
+}
+ }
+ @media all  and (min-width:1662px) and (max-width:1706px)  
+ {
+
+.post{
+    margin-left: 35vh;
+}
+ }
+ @media all  and (min-width:1600px) and (max-width:1661px)  
+ {
+
+.post{
+    margin-left: 30vh;
+}
+.napis2{
+    
+    font-size: 50px;
+  
+}
+ }
+ @media all  and (min-width:1461px) and (max-width:1599px)  
+ {
+    .srd{
+    
+      width: 908px;
+      height: 120vh;
+      left:250px;
+    }
+.post{
+    margin-left: 25vh;
+    width: 900px;
+height: 980px;
+}
+.nav,.tyt,.stopka{
+    width: 900px;
+   
+}
+.k1{
+    margin-left: 800px;
+}
+.s1{
+    margin-right: 40px;
+}
+.formularz{
+    width: 900px;
+}
+.wypel{
+    width: 800px;
+}
+.submit{
+    margin-left: 47.5vh;
+}
+.napis2{
+    font-size: 40px;
+}
+ }
+ @media all  and (min-width:1326px) and (max-width:1460px)  
+ {
+    .srd{
+    
+      width: 800px;
+      height: 120vh;
+      left:250px;
+    }
+.post{
+    margin-left: 22vh;
+    width: 800px;
+height: 1050px;
+}
+.stopka{
+    top: 1050px;
+}
+.nav,.tyt,.stopka,.formularz{
+    width: 800px;
+   
+}
+.k1{
+    margin-left: 700px;
+}
+.s1{
+    margin-right: 40px;
+}
+
+.wypel{
+    width: 700px;
+}
+.submit{
+    margin-left: 38vh;
+}
+.napis2{
+    font-size: 40px;
+}
+ }
+ @media all  and (min-width:1253px) and (max-width:1325px)  
+ {
+    .napisy{
+        font-size: 60px;
+    }
+    .napis2{
+        font-size: 30px;
+    }
+    .item{
+        font-size: 50px;
+        margin-right: 10px;
+margin-left: 10px;
+    }
+    .srd{
+    
+      width: 800px;
+      height: 120vh;
+      left:250px;
+    }
+.post{
+    margin-left: 18vh;
+    width: 800px;
+height: 1060px;
+}
+.stopka{
+    top: 1050px;
+}
+.nav,.tyt,.stopka,.formularz{
+    width: 800px;
+   
+}
+.k1{
+    margin-left: 700px;
+}
+.s1{
+    margin-right: 40px;
+}
+
+.wypel{
+    width: 700px;
+}
+.submit{
+    margin-left: 38vh;
+}
+
+ }
+ @media all  and (min-width:1230px) and (max-width:1252px)  
+ {
+    .napisy{
+        font-size: 60px;
+    }
+    .napis2{
+        font-size: 30px;
+    }
+    .item{
+        font-size: 50px;
+        margin-right: 10px;
+margin-left: 10px;
+    }
+    .srd{
+    
+      width: 750px;
+      height: 120vh;
+      left:210px;
+    }
+.post{
+    margin-left: 16vh;
+    width: 800px;
+    height: 1060px;
+}
+.stopka{
+    top: 1050px;
+}
+.nav,.tyt,.stopka,.formularz{
+    width: 800px;
+   
+}
+.k1{
+    margin-left: 700px;
+}
+.s1{
+    margin-right: 40px;
+}
+
+.wypel{
+    width: 700px;
+}
+.submit{
+    margin-left: 38vh;
+}
+
+ }
+ @media all  and (min-width:1100px) and (max-width:1229px)  
+ {
+    .napisy{
+        font-size: 60px;
+    }
+    .napis2{
+        font-size: 30px;
+    }
+    .item{
+        font-size: 50px;
+        margin-right: 10px;
+margin-left: 10px;
+    }
+    .srd{
+    
+      width: 750px;
+      height: 120vh;
+      left:210px;
+    }
+.post{
+    margin-left: 16vh;
+    width: 800px;
+    height: 1060px;
+}
+.stopka{
+    top: 1050px;
+}
+.nav,.tyt,.stopka,.formularz{
+    width: 800px;
+   
+}
+.k1{
+    margin-left: 700px;
+}
+.s1{
+    margin-right: 40px;
+}
+
+.wypel{
+    width: 700px;
+}
+.submit{
+    margin-left: 38vh;
+}
+
+ }
+ @media all  and (min-width:1010px) and (max-width:1099px)  
+ {
+    .napisy{
+        font-size: 60px;
+    }
+    .napis2{
+        font-size: 30px;
+    }
+    .item{
+        font-size: 50px;
+        margin-right: 10px;
+margin-left: 10px;
+    }
+    .srd{
+    
+      width: 750px;
+      height: 120vh;
+      left:150px;
+    }
+.post{
+    margin-left: 12vh;
+    width: 800px;
+    height: 1060px;
+}
+.stopka{
+    top: 1050px;
+}
+.nav,.tyt,.stopka,.formularz{
+    width: 800px;
+   
+}
+.k1{
+    margin-left: 700px;
+}
+.s1{
+    margin-right: 40px;
+}
+
+.wypel{
+    width: 700px;
+}
+.submit{
+    margin-left: 38vh;
+}
+
+ }
+ @media all  and (min-width:968px) and (max-width:1009px)  
+ {
+    .napisy{
+        font-size: 60px;
+    }
+    .napis2{
+        font-size: 30px;
+    }
+    .item{
+        font-size: 50px;
+        margin-right: 10px;
+margin-left: 10px;
+    }
+    .srd{
+    
+      width: 750px;
+      height: 120vh;
+      left:150px;
+    }
+.post{
+    margin-left: 11vh;
+    width: 800px;
+    height: 1060px;
+}
+.stopka{
+    top: 1050px;
+}
+.nav,.tyt,.stopka,.formularz{
+    width: 800px;
+   
+}
+.k1{
+    margin-left: 700px;
+}
+.s1{
+    margin-right: 40px;
+}
+
+.wypel{
+    width: 700px;
+}
+.submit{
+    margin-left: 38vh;
+}
+
+ }
+ @media all  and (min-width:916px) and (max-width:967px)  
+ {
+    .napisy{
+        font-size: 60px;
+    }
+    .napis2{
+        font-size: 30px;
+    }
+    .item{
+        font-size: 50px;
+        margin-right: 10px;
+margin-left: 10px;
+    }
+    .srd{
+    
+      width: 710px;
+      height: 150vh;
+      left:100px;
+    }
+.post{
+    margin-left: 4vh;
+    width: 800px;
+    height: 1060px;
+}
+.stopka{
+    top: 1050px;
+}
+.nav,.tyt,.stopka,.formularz{
+    width: 800px;
+   
+}
+.k1{
+    margin-left: 700px;
+}
+.s1{
+    margin-right: 40px;
+}
+
+.wypel{
+    width: 700px;
+}
+.submit{
+    margin-left: 38vh;
+}
+
+ }
+ @media all  and (min-width:775px) and (max-width:915px)  
+ {
+    .napisy{
+        font-size: 60px;
+    }
+    .napis2{
+        font-size: 30px;
+    }
+    .item{
+        font-size: 50px;
+        margin-right: 10px;
+margin-left: 10px;
+    }
+    .srd{
+    
+      width: 710px;
+      height: 170vh;
+      left:100px;
+    }
+.post{
+    margin-left: 4vh;
+    width: 700px;
+    height: 1200px;
+}
+
+.stopka{
+    top: 1190px;
+}
+.nav,.tyt,.stopka,.formularz{
+    width: 700px;
+   
+}
+.k1{
+    margin-left: 600px;
+}
+.s1{
+    margin-right: 40px;
+}
+
+.wypel{
+    width: 600px;
+}
+.submit{
+    margin-left: 25vh;
+}
+ }
+
+@media all  and (min-width:500px) and (max-width:774px)  
+ {
+    .napisy{
+        font-size: 60px;
+    }
+    .napis2{
+        font-size: 30px;
+    }
+    .item{
+        font-size: 50px;
+        margin-right: 10px;
+margin-left: 10px;
+    }
+    .srd{
+        width: 710px;
+        height: 280vh;
+        left:1px;
+    }
+.post{
+    margin-left: 5vh;
+    width: 450px;
+    height: 230vh;
+}
+.tyt{
+top: 55vh
+}
+.stopka{
+    top: 230vh;
+}
+.nav,.tyt,.stopka,.formularz{
+    width: 450px;
+   
+}
+.k1{
+    margin-left: 350px;
+}
+.s1{
+    margin-right: 40px;
+}
+
+.wypel{
+    width: 350px;
+}
+.tresc, .tresc1{
+    width: 346px;
+    height: 36px;
+
+}
+.obr12 {
+  
+    margin-top: -5vh;
+  
+}
+.k12{
+    margin-top: -2vh;
+    margin-left: 85%;
+}
+.submit{
+    width: 220px;
+height: 72px;
+    margin-left: 15vh;
+}
+
+/*nawigacja doł*/
+ @media all  and (min-width:450px) and (max-width:1229px) {
+    .LGR,.PGR,.LDR,.PDR{
+        background: transparent;
+        border:none;
+        outline: none;
+        cursor: pointer;
+        display: none;
+     }
+
+ .mobileFOOTER{
+    left: 2.5vh;
+    top: 90%;
+    width: 100%;
+    margin: -2.5vh;
+    border-right: none;
+     position:fixed;
+     display: block;
+     background: rgb(15, 15, 15);
+  }
+  .item1{
+    font-family: 'Oswald', sans-serif;
+    font-size:24px;
+   
+    color: #fafafa;
+    float: left;
+    margin-left: 2vh;
+  }
+  .item2 >p{
+    color: #fff;
+   font-size: 30px;
+   font-family: 'Oswald', sans-serif;
+   clear: both;
+float: left;
+margin-left: 2vh;
+
+}
+.item3{
+   font-family: 'Inter', sans-serif;
+   color: #fff;
+   font-size: 30px;
+  float: right;
+   margin-right: 2vh;
+   
+}
+hr{
+    background: greenyellow;
+    margin-left: 2vh;
+    margin-right: 2vh;
+clear: both;
+height: 4px;
+
+}
+ }
+ }

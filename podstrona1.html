@@ -1,0 +1,150 @@
+<!DOCTYPE HTML>
+<html lang="pl">
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <link rel="stylesheet" href="styl/styl2.css">
+        <link rel="stylesheet"  href="/styl/mobilepodstrona.css">
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@300&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Oswald:wght@200&display=swap" rel="stylesheet">
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+        <title>zadanie testowe</title>
+        </head>
+        <body>
+            <div class="LGR">
+                 <b> <p class="napisy">LATEST</p></b>
+            </div>
+            <div class="PGR"><!--przesowanie od 1 do 6 artykułu-->
+                <nav >
+                    <ul>
+                      <a href="index.html"> <li class="lewo"><img src="zdj/art/icons__arrow--left--white-l.png"></li></a> 
+                        <li class="item">02</li>
+                        <li class="item2">/ 06</li>
+                      <a href="podstrona1.html"> <li class="prawo"><img src="zdj/art/icons__arrow--right--white-l.png"></li></a>
+                    </ul>
+                </nav>
+                </div>
+                <div class="srd">
+                    </div>
+                   
+<div class="post">
+    <div class="nav">
+       <a href="/index.html"><img class="close" src="/podstrony/zdj/icons__close--white--l.png"></a> 
+    </div>
+    <div class="kolo">
+        <img  class="k"src="/podstrony/zdj/post__icon--bg--l.png">
+        <img  class="sr" src="/podstrony/zdj/card__icon--l.png">
+    </div>
+    <div class="nag">
+        <h2 class="naglowek">Sunt aut facere repellat provident occaecati excepturi optio reprehenderit</h2>
+    </div>
+    <div class="artykol1">
+        <p>Quia et suscipit\nsuscipit recusandae consequuntur expedita et cum\nreprehenderit molestiae ut ut quas totam\nnostrum rerum est autem sunt rem eveniet architecto.</p>
+    </div>
+    <div class="out">
+    <div class="tyt">
+        <h1 class="tytul1"><b>Comments</b></h1>
+    </div>
+   <div id="tresccom">
+    <table class="table ">
+        <tbody id="tablicadanych">
+            
+        </tbody>
+    </table>
+    
+    <script>
+        let dane = [
+            {'name':'Id labore ex et quam laborum', 'email':'Eliseo@gardner.biz', 'tekst':'laudantium enim quasi est quidem magnam voluptate ipsam eos\ntempora quo necessitatibus\ndolor quam autem quasi\nreiciendis et nam sapiente accusantium'},
+            {'name':'Quo vero reiciendis velit similique earum', 'email':'Jayne_Kuhic@sydney.com', 'tekst':'est natus enim nihil est dolore omnis voluptatem numquam\net omnis occaecati quod ullam at\nvoluptatem error expedita pariatur\nnihil sint nostrum voluptatem reiciendis et'},
+            {'name':'Odio adipisci rerum aut animi', 'email':'Nikita@garfield.biz', 'tekst':'Aenean a dolor plan et terror soulless vulnerum contagium accedunt, mortui iam vivam unlife. Qui tardius moveri, brid eof reanimator sed in magna copia.'},
+            
+        ]
+        buildTable(dane)
+        let newitem;
+        let dowland;
+        document.addEventListener('DOMContentLoaded', () =>{
+            newitem = document.getElementById('.tablicadanych');
+
+            newitem.addEventListener('submit', (event) =>{
+                event.preventDefault();
+          let inputValue = event.target.elements[0].value;
+        addlistItem(input.value);
+        input.value ="";
+        })
+        for(let dodac of dane){
+            addlistItem(dodac)
+        }
+        })
+     
+      
+        function buildTable(data){
+            let table = document.getElementById('tablicadanych')
+            for (let  i = 0; i < data.length; i++){
+                let tablcia = `<tr>
+                                <td class="osoba">${data[i].name}</td>
+                                <td>${data[i].tekst}</td>
+                                
+                          </tr>`
+                          let mail=`<tr>
+                          <td  class="mail"><a href="mailto:${data[i].email}">${data[i].email}</td>
+                          </tr>`
+                table.innerHTML += tablcia
+                table.innerHTML += mail
+            }
+             
+        }
+
+    </script>
+   </div>
+    <div class="stopka" onclick="dodaj()" >
+        <img class="k1" src="/podstrony/zdj/comments__add--bg--l.png">
+        <img  class="s1" src="/podstrony/zdj/icons__comments__add--icon--l.png" >
+    </div>
+    </div>
+   
+    <div class="formularz">
+        <div class="addcomentkolo">
+            <p class="add">Add Comment</p>
+            <img src="/podstrony/zdj/comments__add--bg--l.png" class="obr12">
+            <img src="/podstrony/zdj/icons__comment.png" class="k12">
+        
+      
+    </div>
+    <!--formularz-->
+        <form class="formularztresc">
+            <input type="text"  placeholder="name" class="tresc1">
+            <input type="email" placeholder="Email" class="tresc">
+            <textarea   placeholder="Pestilentia, shaun ofthe dead scythe..." class="wypel"></textarea>
+                <a class="odrzuc" onclick="back()">Odrzuć</a>
+            <button  class="submit" type="submit" id="submitcom">Submit <img  class="zdjsub"src="/podstrony/zdj/icons__plus--white--l.png"></button>
+       
+        </form>
+        <script src="/js/formularz.js"></script>
+        <!--koniec fomrularza -->
+        </div>
+<div class="LDR">
+    <p class="napis2"> <b>SOCIAL</b>:CENTRE</p>
+</div>
+            <div class="PDR">
+            <p class="napis3"><b>`merce</b></p>
+            </div>
+          
+        </div>
+        <div class="mobileFOOTER">
+            <div class="up">
+                <div class="item1"><h1>LATEST</h1></div>
+                </div>
+                <hr >
+                <div class="item2">
+                    <p ><b>SOCIAL</b>:CENTRE</p>
+                </div>  
+                <div class="item3">
+                    <p ><b>`merce</b></p>
+                </div>
+               
+            </div>
+            </body>
+            </html>

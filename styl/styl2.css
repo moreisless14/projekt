@@ -1,0 +1,366 @@
+*
+{
+    padding: 0;
+    margin:0;
+ top:0;
+    box-sizing: border-box;
+  
+}
+
+body{
+
+    background: rgb(113,34,232);
+    background: linear-gradient(90deg, rgba(113,34,232,1) 0%,rgba(113,34,232,1)  93,75%);
+  background-image: 
+  linear-gradient(transparent 9px, rgba(220,220,200,.8) 5px, transparent 10px),
+  linear-gradient(90deg, transparent 11px, rgba(220,220,200,.8) 9px, transparent 12px);
+  background-size: 100% 30px, 30px 100%;
+
+}
+.napisy{
+    
+    font-family: 'Oswald', sans-serif;
+    font-size: 80px;
+    line-height: 118,56px;
+    color: #fafafa;
+}
+.napis2{
+    color: #fff;
+    font-size: 64px;
+    font-family: 'Oswald', sans-serif;
+    clear: both;
+}
+.napis3{
+    font-family: 'Inter', sans-serif;
+    font-size: 40px;
+    color: #fff;
+}
+.LDR{
+    position: fixed;
+   left: 0;
+   top: 90%;
+    margin-top: -2.5em;
+}
+.PDR{
+    position: fixed;
+    right: 0;
+    top: 95%;
+    margin-top: -2.5em;
+}
+.srd{
+    background-color:#fafafa ; 
+    background-size:cover ;
+    opacity:16%;
+    position: absolute;
+  width: 908px;
+  height: 120vh;
+  left: 634px;
+border:  solid 1px #fafafa 25%;
+}
+.LGR{
+    float: left;
+}
+nav{
+
+margin-top: 62px;
+float: right;
+
+}
+    nav >ul{
+        list-style-type: none;
+    display: flex;
+    justify-content: flex-end;
+    }
+    .item{
+background: linear-gradient(91.62deg, #C8FF46 31.18%, #97FF46 100%);
+ -webkit-background-clip: text;
+ -webkit-text-fill-color: transparent;
+font-size: 64px;
+font-family: 'Oswald', sans-serif;
+font-weight: 600;
+font-size: 64px;
+margin-top: -40px;
+margin-right: 20px;
+margin-left: 20px;
+    }
+.item2{
+    color: #fff;
+    font-size: 32px;
+    font-family: 'Oswald', sans-serif;
+    font-weight: 300;
+line-height: 47px;
+margin-right: 20px;
+
+}
+/*post*/
+.post{
+    position: absolute;
+width: 988px;
+height: 982px;
+margin-left: 59vh;
+top: 48px;
+background: #FFFFFF;
+box-shadow: 0px 16px 24px rgba(24, 11, 55, 0.25);
+border-radius: 8px;
+}
+
+.nav{
+    position:absolute;
+width: 988px;
+height: 96px;
+
+background: #041C26;
+border-radius: 8px 8px 0px 0px;
+}
+.close{
+    float: right;
+   margin-top: 2.7vh;
+margin-right: 2.7vh;
+}
+.k{
+position: absolute;
+margin:2.4vh ;
+}
+.sr{
+    position: absolute;
+    margin-top: 6vh;
+    margin-left: 5.5vh;
+}
+
+.nag{
+    margin-top: 15.2vh;
+}
+.naglowek{
+      margin-left: 4.8vh;
+    font-family: 'Oswald', sans-serif;
+    font-size: 40px;
+    color: #041C26;
+    line-height: 48px;
+    font-weight: 300;
+}
+
+.artykol1{
+    font-family: 'Inter', sans-serif;
+font-size: 20px;
+line-height: 32px;
+margin-left: 4.8vh;
+margin-right: 4.8vh;
+margin-top: 2.4vh;
+}
+
+.tyt{
+    background: linear-gradient(91.62deg, #C8FF46 31.18%, #97FF46 100%);
+    position: absolute;
+width: 988px;
+height: 2.8vh;
+top: 40vh
+}
+.tytul1{
+    font-family: 'Oswald', sans-serif;
+font-size: 40px;
+font-weight: 600;
+line-height: 59px;
+margin-left: 4.8vh;
+position: absolute;
+top:-30px;
+
+}
+.kom{
+    position: relative;
+}
+#tresccom{
+    font-family: 'Inter', sans-serif;
+    position: relative;
+    font-size: 20px;
+line-height: 32px;
+margin-right: 10vh;
+left: 4.8vh;
+
+margin-top: 13vh;
+color: #041C26;
+}
+.osoba{
+   
+   font-weight: bold;
+}
+
+/*
+.person1{
+    margin-top: 15vh;
+   
+}
+.person2, .person3{
+    margin-top: 5.3vh;
+   
+}
+.info{
+    float: left;
+    margin-left: 3vh;
+}
+
+.info > p{
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 24px;
+text-align: right;
+color: #041C26;
+}
+.opiskom {
+    position: relative;
+    font-size: 20px;
+line-height: 32px;
+margin-right: 10vh;
+left: 4.8vh;
+}
+*/
+
+.stopka{
+    position: absolute;
+width: 988px;
+height: 80px;
+top: 950px;
+background: linear-gradient(91.62deg, #C8FF46 31.18%, #97FF46 100%);
+border-radius: 0px 0px 8px 8px;
+}
+.k1{
+    position: absolute;
+margin-left: 844px;
+margin-top: -32px;
+margin-right: 48px;
+}
+.s1{
+    position: relative;
+    float: right;
+    
+    margin-right: 82px;
+    margin-bottom: 66px;
+}
+.lewo{
+    transition-duration: 0.5s;
+}
+.lewo:hover{
+   
+    transform:translatex(-30px);
+}
+.prawo{
+    transition-duration: 0.5s;
+    margin-right:3em ;
+}
+.prawo:hover{
+   
+    transform:translatex(30px);
+}
+.komentarze{
+    position: absolute;
+    clear: both;
+}
+
+/* formularz*/
+.obr12 {
+    float: right;
+    margin-top: -3vh;
+  
+}
+.k12{
+    position: absolute;
+  margin-left: 93%;
+}
+.formularz{
+   
+    position:relative;
+    display: none;
+top: 4.8vh;
+width: 988px;
+max-height: 90%;
+background: linear-gradient(91.62deg, #C8FF46 31.18%, #97FF46 100%);
+border-radius: 0px 0px 8px 8px;
+}
+.formularz.active{
+    transform: translate(0%);
+    float: left;
+    clear: both;
+}
+.add{
+    font-family: 'Oswald', sans-serif;
+    font-size: 40px;
+    font-weight: 600;
+    line-height: 59px;
+    margin-left: 4.8vh;
+    position: absolute;
+    top:-30px;
+   
+    color: #041C26;
+}
+
+.formularztresc{
+    display: flex;
+    flex-direction: column;
+    padding: 2em;
+   
+}
+input{
+    margin: 1em;
+    font-family: 'Inter', sans-serif;
+}
+ textarea{
+     margin-top: 1em;
+     margin-left: 1em;
+     resize: none;
+ }
+.tresc, .tresc1{
+    width: 446px;
+    height: 56px;
+
+}
+.tresc1{
+    margin-top: 2em;
+}
+.wypel{
+    width: 892px;
+    height: 263px;
+
+}
+.submit{
+    background-color:   #041C26;
+width: 320px;
+height: 92px;
+margin-left: 50vh;
+color: #FFFFFF;
+font-size: 24px;
+line-height: 29px;
+font-family: 'Inter', sans-serif;
+margin-top: -2vh;
+}
+.zdjsub{
+    margin-left: 1vh;
+    margin-top: 1vh;
+}
+.odrzuc{
+    color: #041C26;
+    line-height: 19px;
+    text-decoration-line: underline;
+width: 55px;
+height: 19px;
+position:relative;
+margin-left: 4.8vh;
+top: 8vh;
+
+}
+.post{
+    
+        -webkit-transition: all 0.5s ease;
+        -moz-transition: all 0.5s ease;
+          -o-transition: all 0.5s ease;
+         -ms-transition: all 0.5s ease;
+             transition: all 0.5s ease;
+    
+}
+.mobileFOOTER{
+    
+    background: transparent;
+    border:none;
+    outline: none;
+    cursor: pointer;
+    display: none;
+
+}
